@@ -14,3 +14,10 @@
     var anim = bodymovin.loadAnimation(animData);
     bodymovin.setSubframeRendering(true);
 </script>
+
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
